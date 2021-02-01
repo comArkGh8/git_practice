@@ -1,1 +1,4 @@
-This is created on develop
+1) This is created on develop
+2) line 1) was created on develop; merged to master
+3) lines 2)-4) were created on develop after merge
+4) test to see if changes are visible on master
