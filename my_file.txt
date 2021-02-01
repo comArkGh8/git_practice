@@ -2,3 +2,6 @@
 2) line 1) was created on develop; merged to master
 3) lines 2)-4) were created on develop after merge
 4) test to see if changes are visible on master
+5) they weren't
+6) lines 5)-7) created on master
+7) check to see if visible on develop
